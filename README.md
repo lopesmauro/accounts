@@ -19,8 +19,8 @@ Este é um projeto simples de gerenciamento de contas bancárias, desenvolvido e
 
 1. Clone o repositório:
    ```
-   git clone [<URL do repositório>](https://github.com/lopesmauro/accounts.git)
-   cd <nome do repositório>
+   git clone https://github.com/lopesmauro/accounts.git
+   cd accounts
    ```
 2. Instale as dependências
    ```
